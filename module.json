@@ -1,0 +1,10 @@
+{
+	"name": "custom-branding",
+	"title": "Custom Branding",
+	"description": "Change tabletop icon and browser tab favicons and title.",
+	"version": "0.1.0",
+	"author": "shammond42",
+	"esmodules": ["custom-branding.js"],
+	"minimumCoreVersion": "0.5.5",
+	"compatibleCoreVersion": "0.7.5"
+}
